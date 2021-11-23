@@ -1,0 +1,22 @@
+{
+  "name": "playwith_back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leehi9817/Playwith_back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leehi9817/Playwith_back/issues"
+  },
+  "homepage": "https://github.com/leehi9817/Playwith_back#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
